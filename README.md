@@ -1,6 +1,6 @@
 # Quantum Device Design Workshop 2025: Superconducting Qubits
 
-A repository for LFL Lab's workshop materialas for the [QDW](https://qdw-ucla.squarespace.com/) workshop at UCLA 2020.
+A repository for LFL Lab's workshop materialas for the [QDW](https://qdw-ucla.squarespace.com/) 2025 workshop at UCLA.
 
 ## Software Requirements
 
@@ -494,3 +494,7 @@ Additionally, [sqdlab/SQDMetal](https://github.com/sqdlab/SQDMetal) provides hel
 - TO BE ADDED
 
 ---
+
+## Contact:
+
+For any questions or further information, contact [Sadman Ahmed Shanto](mailto:shanto@usc.edu).
