@@ -2,6 +2,18 @@
 
 A repository for LF Lab's workshop materials for the [QDW](https://qdw-ucla.squarespace.com/) 2025 workshop at UCLA.
 
+## Table of Contents
+
+- [Software Requirements](#software-requirements)
+- [Installation Instructions](#installation-instructions)
+  - [Python Runtime](#python-runtime)
+  - [Python Packages](#python-packages)
+  - [AWS Palace](#aws-palace)
+- [Materials for the Workshop](#materials-for-the-workshop)
+  - [Beginner Track](#beginner-track)
+  - [Advanced Track](#advanced-track)
+- [Contact](#contact)
+
 ## Software Requirements
 
 For the hands-on sessions, you will need:
