@@ -8,7 +8,7 @@ For the hands-on sessions, you will need:
 
 1. Python runtime (Python 3.10 recommended but not required) with the following packages:
    - [`qiskit-metal`](https://github.com/qiskit-community/qiskit-metal)
-   - [`SQuADDS`](https://github.com/LFL-Lab/SQuADDS) ([Documentation](https://lfl-lab.github.io/SQuADDS/source/getting_started.html))
+   - [`SQuADDS`](https://github.com/LFL-Lab/SQuADDS)
    - [`SQDMetal`](https://github.com/SQDLab/SQDMetal)
 2. [AWS Palace](https://github.com/awslabs/palace)
 
@@ -22,7 +22,7 @@ For the hands-on sessions, you will need:
 | Python Packages | Required | [View Instructions](#python-packages) |
 | AWS Palace      | Required | [View Instructions](#aws-palace)      |
 
-### Python Runtime {#python-runtime}
+### Python Runtime
 
 <details>
 <summary><strong>macOS Installation</strong></summary>
@@ -156,7 +156,7 @@ python3.10 -m venv qdws-env
 
 ---
 
-### Python Packages {#python-packages}
+### Python Packages
 
 > **Important**: Both `SQuADDS` and `SQDMetal` require `qiskit-metal` as a dependency. The installation process is divided into three parts:
 >
@@ -419,7 +419,7 @@ python3.10 -m venv qdws-env
 
 ---
 
-### AWS Palace {#aws-palace}
+### AWS Palace
 
 > **Important**: Please keep track of where the Palace executable is installed on your system, as you will need this path later to run simulations.
 
