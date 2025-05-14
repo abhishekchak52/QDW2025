@@ -1,6 +1,6 @@
 # Quantum Device Design Workshop 2025: Superconducting Qubits
 
-A repository for LFL Lab's workshop materialas for the [QDW](https://qdw-ucla.squarespace.com/) 2025 workshop at UCLA.
+A repository for LF Lab's workshop materials for the [QDW](https://qdw-ucla.squarespace.com/) 2025 workshop at UCLA.
 
 ## Software Requirements
 
