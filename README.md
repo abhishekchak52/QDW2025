@@ -254,7 +254,7 @@ python3.10 -m venv qdws-env
 9.  Verify SQDMetal installation:
 
     ```bash
-    python -c "import sqdmetal; print('SQDMetal installed successfully')"
+    python -c "import SQDMetal; print('SQDMetal installed successfully')"
     ```
 
 10. Final verification of all packages:
@@ -263,7 +263,7 @@ python3.10 -m venv qdws-env
     $ python
     >>> import qiskit_metal
     >>> import squadds
-    >>> import sqdmetal
+    >>> import SQDMetal
     >>> exit()
     ```
 
