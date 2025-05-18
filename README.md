@@ -497,13 +497,29 @@ Additionally, [sqdlab/SQDMetal](https://github.com/sqdlab/SQDMetal) provides hel
 
 ## Materials for the Workshop:
 
+### Kickoff:
+
+**Slides:** [Kickoff](presentations/Eli/kickoff.pptx)
+
 ### Beginner Track:
 
-- TO BE ADDED
+**Notebook:** [Designing a "fab-ready" chip with `SQuADDS`](notebooks/beginner-track/tutorial-attendees.ipynb)
+**Slides:** [Designing a "fab-ready" chip with `SQuADDS`](presentations/beginner-track/.)
 
 ### Advanced Track:
 
-- TO BE ADDED
+#### Setup Instructions
+
+For advanced track participants, please follow the [detailed setup instructions](notebooks/advance-track/setup_instructions.md) to configure your environment for the ML components of the workshop.
+
+#### Shanto:
+
+**Notebook:** [](notebooks/advanced-track/tutorial-attendees.ipynb)
+**Slides:** [](presentations/advanced-track/.)
+
+#### Eli:
+
+**Slides:** [](presentations/Eli/.)
 
 ---
 

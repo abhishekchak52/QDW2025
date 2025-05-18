@@ -1,0 +1,24 @@
+name: ml-env
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11.4
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - sympy
+  - pytorch
+  - tensorflow
+  - torch
+  - seaborn
+  - ipykernel
+  - pyarrow
+  - pyyaml
+  - tqdm
+  - ipywidgets
+  - pip
+  - pip:
+      - pykan
