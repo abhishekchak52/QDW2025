@@ -504,7 +504,8 @@ Additionally, [sqdlab/SQDMetal](https://github.com/sqdlab/SQDMetal) provides hel
 ### Beginner Track:
 
 **Notebook:** [Designing a "fab-ready" chip with `SQuADDS`](notebooks/beginner-track/tutorial-attendees.ipynb)
-**Slides:** [Designing a "fab-ready" chip with `SQuADDS`](presentations/beginner-track/.)
+
+**Slides:** [Designing a "fab-ready" chip with `SQuADDS`](presentations/beginner-track/slides.pptx)
 
 ### Advanced Track:
 
@@ -514,8 +515,9 @@ For advanced track participants, please follow the [detailed setup instructions]
 
 #### Shanto:
 
-**Notebook:** [](notebooks/advanced-track/tutorial-attendees.ipynb)
-**Slides:** [](presentations/advanced-track/.)
+**Notebook:** [Learning the Inverse Design Map: Hamiltonian to Geometry using Machine Learning](notebooks/advanced-track/tutorial-attendees.ipynb)
+
+**Slides:** [Learning the Inverse Design Map: Hamiltonian to Geometry using Machine Learning](presentations/advanced-track/slides.pptx)
 
 #### Eli:
 
