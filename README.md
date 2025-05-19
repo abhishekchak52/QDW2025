@@ -332,7 +332,7 @@ python3.10 -m venv qdws-env
 9.  Verify SQDMetal installation:
 
     ```bash
-    python -c "import sqdmetal; print('SQDMetal installed successfully')"
+    python -c "import SQDMetal; print('SQDMetal installed successfully')"
     ```
 
 10. Final verification of all packages:
@@ -340,7 +340,7 @@ python3.10 -m venv qdws-env
     $ python
     >>> import qiskit_metal
     >>> import squadds
-    >>> import sqdmetal
+    >>> import SQDMetal
     >>> exit()
     ```
 
@@ -409,7 +409,7 @@ python3.10 -m venv qdws-env
 9.  Verify SQDMetal installation:
 
     ```bash
-    python -c "import sqdmetal; print('SQDMetal installed successfully')"
+    python -c "import SQDMetal; print('SQDMetal installed successfully')"
     ```
 
 10. Final verification of all packages:
@@ -417,7 +417,7 @@ python3.10 -m venv qdws-env
     $ python
     >>> import qiskit_metal
     >>> import squadds
-    >>> import sqdmetal
+    >>> import SQDMetal
     >>> exit()
     ```
 
@@ -454,7 +454,7 @@ After installation, the Palace executable will be located in the `bin/` director
 <details>
 <summary><strong>Windows Installation</strong></summary>
 
-For Windows users, we recommend using the prebuilt Palace executable provided by WELSIM. Detailed instructions can be found in the [SQuADDS documentation](https://lfl-lab.github.io/SQuADDS/source/resources/palace.html#installation-of-palace-on-windows-systems).
+For Windows users, we recommend using the prebuilt Palace executable provided by WELSIM ([GitHub repo for release v0.11.1](https://github.com/awslabs/palace/tree/f3d2deb64364ddb157e654ecac23a4fef45db7e4)). Detailed instructions can be found in the [SQuADDS documentation](https://lfl-lab.github.io/SQuADDS/source/resources/palace.html#installation-of-palace-on-windows-systems).
 
 The prebuilt executable will be installed in:
 
