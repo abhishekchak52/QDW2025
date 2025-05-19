@@ -301,6 +301,7 @@ python3.10 -m venv qdws-env
     conda env update -n qdws -f environment.yml
     python -m pip install --no-deps -e git+https://github.com/Qiskit/qiskit-metal.git#egg=qiskit-metal
     ```
+> **Note**: If you encounter problem when executing `curl -O https://raw.githubusercontent.com/Qiskit/qiskit-metal/main/environment.yml`, try `curl.exe -O https://raw.githubusercontent.com/Qiskit/qiskit-metal/main/environment.yml` instead.
 
 5.  Verify qiskit-metal installation:
 
