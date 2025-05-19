@@ -340,7 +340,7 @@ python3.10 -m venv qdws-env
     $ python
     >>> import qiskit_metal
     >>> import squadds
-    >>> import sqdmetal
+    >>> import SQDMetal
     >>> exit()
     ```
 
