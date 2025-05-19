@@ -465,6 +465,9 @@ C:\Program Files\WELSIM\v31\palace.exe
 Upon installing, open an Anaconda Prompt and `cd` into the `v31` directory, run the command `palace.exe --help`. It should show the following result:
 
 ```
+$ cd C:\Program Files\WELSIM\v31\
+$ palace.exe --help
+
 Usage: palace.exe [OPTIONS] CONFIG_FILE
 
 Options:
@@ -472,7 +475,14 @@ Options:
   -dry-run, --dry-run  Parse configuration file for errors and exit
 ```
 
-Once this is done, git clone the AWS Palace repository for [version 0.11.1](https://github.com/awslabs/palace/tree/v0.11.1) and run the some examples to test if everything works.
+Once this is done, git clone the AWS Palace repository for [version 0.11.1](https://github.com/awslabs/palace/tree/v0.11.1) in whatever directory you want to save it in and run the some examples (e.g. lets say the cpw example) to test if everything works.
+
+```
+$ cd \path\to\your\dir
+$ git clone https://github.com/awslabs/palace.git
+$ cd palace\examples\cpw
+$ "C:\Program Files\WELSIM\v31\palace.exe" cpw_coax_uniform.json
+```
 
 If you prefer to build from source, the documentation also includes detailed steps for building Palace on Windows, though this is not recommended for beginners.
 
