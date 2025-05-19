@@ -486,6 +486,12 @@ $ "C:\Program Files\WELSIM\v31\palace.exe" cpw_coax_uniform.json
 
 If you prefer to build from source, the documentation also includes detailed steps for building Palace on Windows, though this is not recommended for beginners.
 
+<summary><strong>Docker Image</strong></summary>
+
+For those brave ones who want to try using Docker, you can use the prebuilt Docker image for Palace. This is a more advanced option and may require **some** familiarity with Docker.
+
+Here is the link to the GitHub Repository: [https://github.com/shanto268/palace-docker-image](https://github.com/shanto268/palace-docker-image)
+
 </details>
 
 <details>
