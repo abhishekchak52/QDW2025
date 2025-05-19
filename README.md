@@ -515,9 +515,9 @@ For advanced track participants, please follow the [detailed setup instructions]
 
 #### Shanto:
 
-**Notebook:** [Learning the Inverse Design Map: Hamiltonian to Geometry using Machine Learning](notebooks/advanced-track/tutorial-attendees.ipynb)
+**Notebook:** [Learning the Inverse Design Map: Hamiltonian to Geometry using Machine Learning](notebooks/advance-track/tutorial-attendees.ipynb)
 
-**Slides:** [Learning the Inverse Design Map: Hamiltonian to Geometry using Machine Learning](presentations/advanced-track/slides.pptx)
+**Slides:** [Learning the Inverse Design Map: Hamiltonian to Geometry using Machine Learning](presentations/advance-track/slides.pptx)
 
 #### Eli:
 
