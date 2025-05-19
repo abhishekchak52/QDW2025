@@ -459,8 +459,20 @@ For Windows users, we recommend using the prebuilt Palace executable provided by
 The prebuilt executable will be installed in:
 
 ```
-C:\Program Files\WELSIM\v3.1\palace.exe
+C:\Program Files\WELSIM\v31\palace.exe
 ```
+
+Upon installing, open an Anaconda Prompt and `cd` into the `v31` directory, run the command `palace.exe --help`. It should show the following result:
+
+```
+Usage: palace.exe [OPTIONS] CONFIG_FILE
+
+Options:
+  -h, --help           Show this help message and exit
+  -dry-run, --dry-run  Parse configuration file for errors and exit
+```
+
+Once this is done, git clone the AWS Palace repository for [version 0.11.1](https://github.com/awslabs/palace/tree/v0.11.1) and run the some examples to test if everything works.
 
 If you prefer to build from source, the documentation also includes detailed steps for building Palace on Windows, though this is not recommended for beginners.
 
