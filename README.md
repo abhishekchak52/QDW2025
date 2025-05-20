@@ -1,6 +1,6 @@
 # Quantum Device Design Workshop 2025: Superconducting Qubits
 
-A repository for LF Lab's workshop materials for the [QDW](https://qdw-ucla.squarespace.com/) 2025 workshop at UCLA.
+A repository for LF Lab and [`scqubit`](https://scqubits.readthedocs.io/en/latest/) workshop materials for the [QDW](https://qdw-ucla.squarespace.com/) 2025 workshop at UCLA. 
 
 ## Table of Contents
 
@@ -548,9 +548,9 @@ For advanced track participants, please follow the [detailed setup instructions]
 
 **Slides:** [Learning the Inverse Design Map: Hamiltonian to Geometry using Machine Learning](presentations/advance-track/slides.pptx)
 
-#### Eli:
+#### Professor Jens Koch:
 
-**Slides:** [](presentations/Eli/.)
+**Notebook File Directory:** `notebooks/advance-track/scqubits-workshop`
 
 ---
 
