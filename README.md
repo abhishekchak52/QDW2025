@@ -485,6 +485,7 @@ $ git clone https://github.com/awslabs/palace.git
 $ cd palace\examples\cpw
 $ "C:\Program Files\WELSIM\v31\palace.exe" cpw_coax_uniform.json
 ```
+>** Note **: If ' "C:\Program Files\WELSIM\v31\palace.exe" ' gives error, try using '&"C:\Program Files\WELSIM\v31\palace.exe" '
 
 If you prefer to build from source, the documentation also includes detailed steps for building Palace on Windows, though this is not recommended for beginners.
 
