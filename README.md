@@ -475,7 +475,7 @@ Options:
   -h, --help           Show this help message and exit
   -dry-run, --dry-run  Parse configuration file for errors and exit
 ```
-> ** Note**:  If you face 'The code execution cannot proceed because libifportMD.dll was not found.' error while running 'palace.exe --help', download and install Intel® Fortran Compiler Runtime for Windows* (IFX/IFORT) ([https://github.com/awslabs/palace/tree/v0.11.1](https://registrationcenter-download.intel.com/akdlm/IRC_NAS/b4e4ffda-25e9-4549-8ca1-46087ff704d7/w_ifort_runtime_p_2023.2.0.49500.exe)). After installation, restart the Anaconda Prompt and try again.
+** Note**:  If you face 'The code execution cannot proceed because libifportMD.dll was not found.' error while running 'palace.exe --help', download and install Intel® Fortran Compiler Runtime for Windows* (IFX/IFORT) ([https://github.com/awslabs/palace/tree/v0.11.1](https://registrationcenter-download.intel.com/akdlm/IRC_NAS/b4e4ffda-25e9-4549-8ca1-46087ff704d7/w_ifort_runtime_p_2023.2.0.49500.exe)). After installation, restart the Anaconda Prompt and try again.
 
 Once this is done, git clone the AWS Palace repository for [version 0.11.1](https://github.com/awslabs/palace/tree/v0.11.1) in whatever directory you want to save it in and run the some examples (e.g. lets say the cpw example) to test if everything works.
 
